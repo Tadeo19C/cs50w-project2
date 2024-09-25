@@ -1,5 +1,6 @@
-Auctions
+
 #
+*Auctions
 Este proyecto es una plataforma de subastas en línea similar a eBay, donde los usuarios pueden crear listados de productos, realizar ofertas, comentar en los listados, agregar productos a su lista de seguimiento y más.
 
 Funcionalidades

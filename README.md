@@ -4,7 +4,7 @@
 Este proyecto es una plataforma de subastas en línea similar a eBay, donde los usuarios pueden crear listados de productos, realizar ofertas, comentar en los listados, agregar productos a su lista de seguimiento y más.
 
 #
-##Funcionalidades
+## Funcionalidades
 Registro de Usuarios: Los usuarios pueden registrarse, iniciar sesión y cerrar sesión.
 Listados de Subastas: Los usuarios pueden crear, ver y administrar listados de productos en subasta.
 Ofertas: Los usuarios pueden realizar ofertas en los productos listados.
@@ -15,7 +15,7 @@ Cierre de Subastas: El creador de un listado puede cerrar la subasta y declarar 
 Edición de Listados: Los usuarios pueden modificar sus listados si es necesario.
 
 #
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 Python: Lenguaje de programación principal.
 Django: Framework para el desarrollo de la aplicación web.
 Bootstrap: Framework CSS para el diseño y la apariencia de la aplicación.
@@ -29,7 +29,7 @@ views.py: Contiene la lógica de las vistas y el manejo de peticiones.
 urls.py: Define las rutas de la aplicación.
 
 #
-##Uso
+## Uso
 Crear un Listado: Los usuarios autenticados pueden crear un nuevo listado proporcionando detalles como el título, descripción, imagen y precio inicial.
 Realizar una Oferta: Cualquier usuario registrado puede realizar ofertas en los listados activos.
 Agregar a Watchlist: Los usuarios pueden agregar listados a su Watchlist para hacer un seguimiento de los productos de interés.

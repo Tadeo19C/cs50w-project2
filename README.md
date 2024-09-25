@@ -22,7 +22,7 @@ Registro de Usuarios: Los usuarios pueden registrarse, iniciar sesión y cerrar 
  Edición de Listados: Los usuarios pueden modificar sus listados si es necesario.
 
 #
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 Python: Lenguaje de programación principal.
 
 Django: Framework para el desarrollo de la aplicación web.
@@ -32,7 +32,7 @@ Bootstrap: Framework CSS para el diseño y la apariencia de la aplicación.
 SQLite: Base de datos por defecto utilizada en el desarrollo.
 
 #
-##Estructura del Proyecto
+## Estructura del Proyecto
 auctions/: Contiene la aplicación principal, que incluye las vistas, modelos, formularios, URLs, y plantillas.
 
 templates/: Directorio que contiene todas las plantillas HTML.

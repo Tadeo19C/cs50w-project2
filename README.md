@@ -5,14 +5,21 @@ Este proyecto es una plataforma de subastas en línea similar a eBay, donde los 
 
 #
 ## Funcionalidades
-### Registro de Usuarios: Los usuarios pueden registrarse, iniciar sesión y cerrar sesión.
-### Listados de Subastas: Los usuarios pueden crear, ver y administrar listados de productos en subasta.
-### Ofertas: Los usuarios pueden realizar ofertas en los productos listados.
-### Comentarios: Los usuarios pueden dejar comentarios en los listados.
-### Lista de Seguimiento (Watchlist): Los usuarios pueden agregar o eliminar productos de su lista de seguimiento.
-### Categorías: Los usuarios pueden filtrar los listados por categorías.
-### Cierre de Subastas: El creador de un listado puede cerrar la subasta y declarar al ganador.
-### Edición de Listados: Los usuarios pueden modificar sus listados si es necesario.
+Registro de Usuarios: Los usuarios pueden registrarse, iniciar sesión y cerrar sesión.
+
+ Listados de Subastas: Los usuarios pueden crear, ver y administrar listados de productos en subasta.
+
+ Ofertas: Los usuarios pueden realizar ofertas en los productos listados.
+
+ Comentarios: Los usuarios pueden dejar comentarios en los listados.
+
+ Lista de Seguimiento (Watchlist): Los usuarios pueden agregar o eliminar productos de su lista de seguimiento.
+
+ Categorías: Los usuarios pueden filtrar los listados por categorías.
+
+ Cierre de Subastas: El creador de un listado puede cerrar la subasta y declarar al ganador.
+
+ Edición de Listados: Los usuarios pueden modificar sus listados si es necesario.
 
 #
 ## Tecnologías Utilizadas
